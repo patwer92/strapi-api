@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "patwer92",
+    "api_key": "816246935631755",
+    "api_secret": "g7i6esqfQjTCdw4OOyBhfA-pTR4"
+  }
+}
